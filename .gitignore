@@ -1,0 +1,5 @@
+# The trained model is created when you train.
+# It is big and can be rebuilt any time, so we do not upload it to GitHub.
+leafguard_model.keras
+__pycache__/
+*.pyc
